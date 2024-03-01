@@ -1,5 +1,3 @@
-// HomePage.jsx
-
 import React, { useState, useEffect } from "react";
 import "./HomePage.css";
 import WisataCard from "./WisataCard";
