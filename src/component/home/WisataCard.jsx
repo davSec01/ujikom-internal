@@ -1,5 +1,3 @@
-// WisataCard.jsx
-
 import React, { useState } from "react";
 import "./WisataCard.css";
 
